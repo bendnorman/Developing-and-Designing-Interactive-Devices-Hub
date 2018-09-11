@@ -1,1 +1,1 @@
-![alt text](preLab2.jpg)
+![alt text](prelab2.jpg)
