@@ -8,4 +8,4 @@ Repository for CS 5345 Developing and Designing Interactive Devices projects.
 
 
 ## Pre-Labs:
-
+[Pre Lab 2](preLab2.md)
