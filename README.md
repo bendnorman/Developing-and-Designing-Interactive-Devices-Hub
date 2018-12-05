@@ -12,6 +12,10 @@ Repository for CS 5345 Developing and Designing Interactive Devices projects.
 
 [Lab 5](https://github.com/bendnorman/IDD-Fa18-Lab5)
 
+[Pre 6](https://github.com/bendnorman/IDD-Fa18-Lab6)
+
+[Pre 7](https://github.com/bendnorman/IDD-Fa18-Lab7)
+
 
 ## Pre-Labs:
 [Pre Lab 2](preLab2.md)
@@ -19,3 +23,7 @@ Repository for CS 5345 Developing and Designing Interactive Devices projects.
 [Pre Lab 3](preLab3.md)
 
 [Pre Lab 5](prelab5.JPG)
+
+[Pre Lab 6](https://github.com/bendnorman/IDD-Fa18-Lab6)
+
+[Pre lab 7](https://github.com/bendnorman/IDD-Fa18-Lab7)
